@@ -5,4 +5,4 @@ The design can be view bt clicking this link: https://www.figma.com/board/4BF59Y
 
 
 
-![alt text](https://github.com/SnaiKun/Wireframing-App-UI-Figma- /blob/main/BlazeARM Prototype.png?raw=true)
+![alt text](https://github.com/SnaiKun/Wireframing-App-UI-Figma-/blob/main/BlazeARM Prototype.png?raw=true)
